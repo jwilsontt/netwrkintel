@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\isocc",
+    "\\ispc",
     "\\netintel"
   ],
+  "SelectedNode": "\\isocc\\admin.py",
   "PreviewInSolutionExplorer": false
 }
