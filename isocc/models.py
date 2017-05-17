@@ -10,4 +10,4 @@ class CountryIso(models.Model):
 	un_m49_num = models.IntegerField(default=0)
 
 	def __str__(self):
-		return self.country_name
+		return self.country_name		
