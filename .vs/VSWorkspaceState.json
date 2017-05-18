@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\isocc",
-    "\\ispc",
     "\\netintel"
   ],
-  "SelectedNode": "\\ispc\\models.py",
+  "SelectedNode": "\\netintel",
   "PreviewInSolutionExplorer": false
 }

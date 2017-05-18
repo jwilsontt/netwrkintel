@@ -4,6 +4,7 @@ from .models import CountryIso
 
 class CountryAdmin(admin.ModelAdmin):
 	list_display = ('country_name', 'alpha_2', 'alpha_3')
+	search_fields = ['country_name']
 
 	def country_name(self, obj):
 		return obj.country_name
